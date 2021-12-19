@@ -1,0 +1,8 @@
+h1 {
+    color: darkblue
+}
+
+h2 {
+    display: inline-block;
+    background-color: lightgray;
+}
