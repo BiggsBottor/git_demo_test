@@ -1,2 +1,3 @@
 // nothing by now
-console.log("Hola mundo!");
+console.log('%cHola Mundo', 'color:cyan');
+
